@@ -1,5 +1,5 @@
 # Install
 
-Download this repository as a zip file and follow instructions in the following link:
+Download this repository as a zip file and follow `Step 2` instructions in the following link:
 
-https://support.google.com/chrome_webstore/answer/2664769
+https://support.google.com/chrome/a/answer/2714278
