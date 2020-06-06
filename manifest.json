@@ -1,0 +1,19 @@
+{
+  "name": "Eraser",
+  "version": "1.0",
+  "description": "Build an Extension!",
+  "permissions": ["activeTab", "declarativeContent", "storage"],
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "icons": {
+    "16": "images/eraser.png",
+    "32": "images/eraser.png",
+    "48": "images/eraser.png",
+    "128": "images/eraser.png"
+  },
+  "browser_action": {
+  },
+  "manifest_version": 2
+}
